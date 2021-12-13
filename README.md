@@ -1,2 +1,3 @@
-# Product_landing_page
-I developed this website using JAVA,CSS,HTML.To see website visit http://saitejapenchala.me/
+# Hot Gadgets
+## Simple eCommerce landing page. 
+[Live demo](https://akiltipu.github.io/hot-gadgets/)
