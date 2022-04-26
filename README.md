@@ -1,3 +1,3 @@
 # Hot Gadgets
 ## Simple eCommerce landing page. 
-[Live demo](https://saitejapenchala.github.io/hot-gadgets/)
+[Live demo](https://akiltipu.github.io/hot-gadgets/)
